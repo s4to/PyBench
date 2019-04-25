@@ -105,3 +105,13 @@ venv.bak/
 
 # pycharm
 .idea/
+
+# vscode
+.vscode
+
+# project
+resource/
+
+# extra module
+line_profiler/
+*.lprof
