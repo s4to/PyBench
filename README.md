@@ -1,5 +1,6 @@
 PyBench
 ===
+Python3のパフォーマンスとか挙動を検証する。
 
 ## Memo
 - Python3.7 で line_profiler をインストールする際に下記の方法を用いるとエラーを回避できる。
