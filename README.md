@@ -6,5 +6,4 @@ PyBench
 - https://github.com/rkern/line_profiler/issues/132#issuecomment-418913772
 
 ## 検証結果
-- [バイナリファイルのオープン]()
-
+- [バイナリファイルのオープン](binary_open.ipynb)
