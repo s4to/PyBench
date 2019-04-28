@@ -9,3 +9,4 @@ Python3のパフォーマンスとか挙動を検証する。
 ## 検証結果
 - [バイナリファイルのオープン](binary_open.ipynb)
 - [テキストファイルのオープン](file_open.ipynb)
+- [リスト生成の速度](generate_list.ipynb)
